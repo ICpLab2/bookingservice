@@ -18,3 +18,4 @@
         contextRoot="/" />   
   <webContainer deferServletLoad="false"/>
 </server>
+&lt;feature&gt;logstashC1.0&lt;/feature&gt;
